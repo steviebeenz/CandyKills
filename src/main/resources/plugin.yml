@@ -1,7 +1,4 @@
 name: InsurgenceKills
 version: '${project.version}'
-main: com.saturn_dev.insurgencekills.InsurgenceKills
-api-version: 1.16
-authors: [ SaturnPlugins ]
+main: com.dan_owens.insurgencekills.InsurgenceKills
 description: Kills Plugin
-website: saturn-dev.com
