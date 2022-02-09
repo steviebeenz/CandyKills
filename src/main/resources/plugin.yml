@@ -1,4 +1,4 @@
-name: InsurgenceKills
+name: CandyKills
 version: '${project.version}'
-main: com.dan_owens.insurgencekills.InsurgenceKills
+main: tech.candy_dev.candykills.CandyKills
 description: Kills Plugin
