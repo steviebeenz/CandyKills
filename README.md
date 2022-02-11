@@ -1,0 +1,2 @@
+# CandyKills
+Kills Plugin
