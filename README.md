@@ -1,7 +1,7 @@
 # CandyKills
 Simple KitPvP Plugin to Track:
-> Kills
-> Deaths
+> Kills,
+> Deaths,
 > Killstreaks
 
 Commands:
